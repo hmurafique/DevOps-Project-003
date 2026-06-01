@@ -365,7 +365,7 @@ com → devops → devops-java-app → 1.0.0 ✅
 docker stop nexus && docker rm nexus
 
 # Terraform destroy
-cd /home/ubuntu/DevOps-Project-006/terraform
+cd /home/ubuntu/DevOps-Project-003/terraform
 terraform destroy -auto-approve
 ```
 
